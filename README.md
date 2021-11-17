@@ -1,19 +1,19 @@
-# Scaled Perceptual Loss for Real-time Style Transfer
-Experimental Result with Extended Perceptual Loss for Real-time Style Transfer
-
-## Reference
-
-Paper : [Perceptual Losses for Real-Time Style Transfer and Super-Resolution, 2016](https://arxiv.org/abs/1603.08155)
+# Real-time Depth Style Transfer
+Experimental Result about Real-time Style Transfer using Depth Image
 
 ## Environment
 
 - Windows10
-- Pytorch
+- Pytorch 1.8.2 (LTS)
 - Conda (Recommended) / **\*using env.yml file\* for quick start**
 
 ## Training Dataset
 - Content Image : [COCO2014](https://cocodataset.org/#download)
 - Style Image : **Abstract Expressionism, Neo-Expressionism Artworks** in [WikiArt Dataset](https://www.wikiart.org/en/paintings-by-style)
+
+## Reference
+
+Paper : [Perceptual Losses for Real-Time Style Transfer and Super-Resolution, 2016](https://arxiv.org/abs/1603.08155)
 
 ## Acknowledgments
 
